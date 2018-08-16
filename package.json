@@ -1,0 +1,11 @@
+{
+  "name": "db-comparer",
+  "version": "1.0.0",
+  "description": "compares 2 database schemas with each other and prints a detailed diff",
+  "main": "compare.js",
+  "author": "Marcel Vogel",
+  "dependencies": {
+    "node-command-line-option": "^1.0.1",
+    "pg": "^7.4.3"
+  }
+}
